@@ -3,6 +3,7 @@
 A modern, fast, and serverless AI Resume Analyzer built with React, TailwindCSS v4, React Router v7, and Puter.js.
 
 ## Features ✨
+- **Live Demo**: [https://ai-resume-analyzer-pink-iota.vercel.app/](https://ai-resume-analyzer-pink-iota.vercel.app/)
 - **Serverless Authentication**: Powered entirely by Puter.js on the client-side.
 - **AI Analysis**: Get detailed feedback on your resume tailored to any job description using state-of-the-art AI models.
 - **Premium Dark Mode**: A sleek, glassmorphic dark interface with neon gradient accents.
